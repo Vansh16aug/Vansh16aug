@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vansh16aug&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh16aug&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆My Badges
+[![An image of @vansh16aug's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vansh16aug)](https://holopin.io/@vansh16aug)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vansh16aug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
