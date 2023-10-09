@@ -11,25 +11,16 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vansh16aug&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vansh16aug&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh16aug&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Vansh16aug's GitHub | Stats](https://stats.quine.sh/Vansh16aug/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vansh16aug)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vansh16aug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Topics Overtime
+[![Vansh16aug's GitHub | Topics Over Time](https://stats.quine.sh/Vansh16aug/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vansh16aug)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=kumar_vansh_16)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 Languages Overtime
+[![Vansh16aug's GitHub | Languages Over Time](https://stats.quine.sh/Vansh16aug/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vansh16aug)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vansh16aug&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Vansh16aug&icon=0&color=5)](https://visitcount.itsvg.in)
 
