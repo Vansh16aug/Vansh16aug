@@ -53,13 +53,6 @@
 </div>
 
 <hr/>
-
-Python       4 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.44 %
-TypeScript   2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-PHP          2 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-Other        47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-HTML         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
