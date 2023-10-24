@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vansh16aug.visitor-badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=4000&pause=1000&random=false&width=435&lines=Hi+there%F0%9F%91%8B;I+am+Vansh+Kumar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&random=false&width=435&lines=Hi+there%F0%9F%91%8B;I+am+Vansh+Kumar" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Web-Developer from India</h3>
