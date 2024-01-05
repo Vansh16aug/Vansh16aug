@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a Razorpay clone**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Tailwind & Javascript**
 
- 💬 Ask me about **Node.js, React, Html, Css ... or anything [here](https://github.com/Vansh16aug/Vansh16aug/issues)**
+ 💬 Ask me about **Html, Css & C++ ... or anything [here](https://github.com/Vansh16aug/Vansh16aug/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **The first programmer was the daughter of a mad poet**
  
  </div>
  
