@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Razorpay clone**
+ 🔭 I’m currently working on **nothing**
  
  🌱 I’m currently learning **Tailwind & Javascript**
 
