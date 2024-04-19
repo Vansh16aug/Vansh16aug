@@ -48,15 +48,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align=center>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVzNHJsYjBxZzFreHhzNDd6cHJkbHJid2Vuam43bXBsNnc4OXJ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="animated" />
-</div>
-
 
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   
+</div>
+<div align=center>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVzNHJsYjBxZzFreHhzNDd6cHJkbHJid2Vuam43bXBsNnc4OXJ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="animated" />
 </div>
 
 
