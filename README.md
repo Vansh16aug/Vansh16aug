@@ -49,9 +49,9 @@
 <br>
 
 
-<div align="top">
-    <div >
-        <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=dark&hide_border=true" alt="GitHub Streak" />
+<div align="left">
+    <div style="display:flex">
+        <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=dark&hide_border=true" alt="GitHub Streak"   />
         <img src="https://leetcard.jacoblin.cool/kumarvansh16aug?theme=dark&font=Hind" />
     </div>
 </div>
