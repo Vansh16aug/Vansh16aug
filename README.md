@@ -50,7 +50,7 @@
 
 
 <div align="top">
-    <div align="left">
+    <div >
         <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=dark&hide_border=true" alt="GitHub Streak" />
         <img src="https://leetcard.jacoblin.cool/kumarvansh16aug?theme=dark&font=Hind" />
     </div>
