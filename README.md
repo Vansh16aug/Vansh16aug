@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **nothing**
+ 🔭 I’m currently working on **Personel Projects**
  
- 🌱 I’m currently learning **Tailwind & Javascript**
+ 🌱 I’m currently learning **ReactJs and AWS**
 
- 💬 Ask me about **Html, Css & C++ ... or anything [here](https://github.com/Vansh16aug/Vansh16aug/issues)**
+ 💬 Ask me about **Javascript, Css & C++ ... or anything [here](https://github.com/Vansh16aug/Vansh16aug/issues)**
 
  ⚡ Fun fact **The first programmer was the daughter of a mad poet**
  
