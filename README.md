@@ -31,7 +31,10 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<div align="center">
+    <h2 align="center">⚡ Stats ⚡</h2>
+    <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=dark&hide_border=true" alt="GitHub Streak"   />
+</div>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -45,17 +48,18 @@
 <hr
 
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
 <br>
 
 
 <div align="center">
     <div>
-        <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=dark&hide_border=true" alt="GitHub Streak"   />
+<!--         <img src="https://streak-stats.demolab.com?user=Vansh16aug&theme=dark&hide_border=true" alt="GitHub Streak"   /> -->
     </div>
     <div></div>
     <div>
-        <img src="https://leetcard.jacoblin.cool/kumarvansh16aug?theme=dark&font=Hind" />
+<!--         <img src="https://leetcard.jacoblin.cool/kumarvansh16aug?theme=dark&font=Hind" /> -->
+        <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" />
     </div>
 </div>
 
