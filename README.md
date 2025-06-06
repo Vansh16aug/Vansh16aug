@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Personel Projects**
+ 🔭 I’m currently working on **Interview Bot**
  
- 🌱 I’m currently learning **ReactJs and AWS**
+ 🌱 I’m currently learning **NextJs**
 
  💬 Ask me about **Javascript, Css & C++ ... or anything [here](https://github.com/Vansh16aug/Vansh16aug/issues)**
 
